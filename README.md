@@ -28,7 +28,7 @@ Bem-vindo ao curso de Java Básico e Orientação à Objetos oferecido por loian
 * Calcule e mostre o total do seu salário no referido mês
 # exercicio 9
 * Faça um Programa que peça a temperatura em graus Farenheit,
-* * transforme e mostre a temperatura em graus Celsius.
+* transforme e mostre a temperatura em graus Celsius.
 * C = (5 * (F-32) / 9).
 # exercicio 10
 * Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit
